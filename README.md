@@ -1,2 +1,2 @@
-Employee Attrition Dashboard 
+Employee Attrition Dashboard :
 Developed an interactive Looker Studio dashboard to monitor and analyze employee attrition trends across departments, locations, and roles. Leveraged pivot tables, charts, and calculated fields to summarize attrition rates, identify high-risk areas, and track patterns over time. Applied conditional formatting to highlight departments with higher turnover, enabling HR and management teams to make data-driven retention decisions.
